@@ -1,0 +1,14 @@
+body {
+    text-align: center;
+    background: linear-gradient(#cffff3 0%, #00cf9b 100%);
+}
+
+h1 {
+    font-size: 50;
+    font-family: cursive
+}
+
+p {
+    font-size: 20;
+    font-family: cursive;
+}
